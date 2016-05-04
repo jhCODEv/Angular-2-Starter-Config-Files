@@ -1,5 +1,5 @@
 {
-  "name": "inmobiliaria.web.admin",
+  "name": "Angular-2-Starter-Config-Files",
   "version": "1.0.0",
   "scripts": {
     "start": "tsc && concurrently \"npm run tsc:w\" \"npm run lite\" ",
